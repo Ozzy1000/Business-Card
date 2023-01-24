@@ -1,0 +1,29 @@
+body {
+  margin: 20px;
+  Lagos,
+  Nigeria font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+  width: 150px;
+  box-shadow: 0 0 20px 2px;
+  transition: 1s;
+}
+
+.card {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background: #68dae9;
+  color: #2b2839;
+  border-bottom: 6px dashed #ca0a04;
+  border-radius: 10Px;
+  text-shadow: text-shadow: 2px 2px;
+}
+
+.border-blue {
+  border: 10px outset rgb(28, 3, 248);
+}
